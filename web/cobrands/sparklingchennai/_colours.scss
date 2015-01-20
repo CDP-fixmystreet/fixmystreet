@@ -1,7 +1,7 @@
 /* COLOURS */
 
 $white: #ffffff;
-$bluey: #1C3448;
+$bluey: #386890;
 
 $primary: $white;
 $primary_b: #000000;
@@ -11,8 +11,8 @@ $base_bg: $bluey;
 $base_fg: #000;
 
 $map_nav_bg: $bluey;
-$nav_fg: #000;
-$nav_fg_hover: $primary;
+$nav_fg: $primary;
+$nav_fg_hover: #000;
 
 $col_click_map: $bluey;
 $col_click_map_dark: darken($bluey, 10%);
